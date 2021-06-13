@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reactportfolioapp/static/css/main.d6858b15.chunk.css",
+    "main.js": "/reactportfolioapp/static/js/main.71388667.chunk.js",
+    "main.js.map": "/reactportfolioapp/static/js/main.71388667.chunk.js.map",
+    "runtime-main.js": "/reactportfolioapp/static/js/runtime-main.801f181b.js",
+    "runtime-main.js.map": "/reactportfolioapp/static/js/runtime-main.801f181b.js.map",
+    "static/js/2.09549636.chunk.js": "/reactportfolioapp/static/js/2.09549636.chunk.js",
+    "static/js/2.09549636.chunk.js.map": "/reactportfolioapp/static/js/2.09549636.chunk.js.map",
+    "index.html": "/reactportfolioapp/index.html",
+    "static/css/main.d6858b15.chunk.css.map": "/reactportfolioapp/static/css/main.d6858b15.chunk.css.map",
+    "static/js/2.09549636.chunk.js.LICENSE.txt": "/reactportfolioapp/static/js/2.09549636.chunk.js.LICENSE.txt",
+    "static/media/Coursera.883eb6db.pdf": "/reactportfolioapp/static/media/Coursera.883eb6db.pdf",
+    "static/media/Resume.65838023.pdf": "/reactportfolioapp/static/media/Resume.65838023.pdf",
+    "static/media/certificate.b1fd22d7.pdf": "/reactportfolioapp/static/media/certificate.b1fd22d7.pdf",
+    "static/media/geeksforgeeks.4dd65892.pdf": "/reactportfolioapp/static/media/geeksforgeeks.4dd65892.pdf",
+    "static/media/svg-1.78caaaf4.svg": "/reactportfolioapp/static/media/svg-1.78caaaf4.svg",
+    "static/media/svg-10.00f3e5cf.svg": "/reactportfolioapp/static/media/svg-10.00f3e5cf.svg",
+    "static/media/svg-11.e68b35f4.svg": "/reactportfolioapp/static/media/svg-11.e68b35f4.svg",
+    "static/media/svg-12.412c0cee.svg": "/reactportfolioapp/static/media/svg-12.412c0cee.svg",
+    "static/media/svg-13.0287331e.svg": "/reactportfolioapp/static/media/svg-13.0287331e.svg",
+    "static/media/svg-14.9b161b3a.svg": "/reactportfolioapp/static/media/svg-14.9b161b3a.svg",
+    "static/media/svg-15.0df769dd.svg": "/reactportfolioapp/static/media/svg-15.0df769dd.svg",
+    "static/media/svg-16.e926b2c0.svg": "/reactportfolioapp/static/media/svg-16.e926b2c0.svg",
+    "static/media/svg-2.b34779d4.svg": "/reactportfolioapp/static/media/svg-2.b34779d4.svg",
+    "static/media/svg-3.93c40bc3.svg": "/reactportfolioapp/static/media/svg-3.93c40bc3.svg",
+    "static/media/svg-4.72ff3502.svg": "/reactportfolioapp/static/media/svg-4.72ff3502.svg",
+    "static/media/svg-5.fc74e80f.svg": "/reactportfolioapp/static/media/svg-5.fc74e80f.svg",
+    "static/media/svg-6.3572804f.svg": "/reactportfolioapp/static/media/svg-6.3572804f.svg",
+    "static/media/svg-7.08869fe9.svg": "/reactportfolioapp/static/media/svg-7.08869fe9.svg",
+    "static/media/svg-8.3efc40a5.svg": "/reactportfolioapp/static/media/svg-8.3efc40a5.svg",
+    "static/media/svg-9.d4c86ccd.svg": "/reactportfolioapp/static/media/svg-9.d4c86ccd.svg",
+    "static/media/upgrad.dce1d4e8.pdf": "/reactportfolioapp/static/media/upgrad.dce1d4e8.pdf",
+    "static/media/video.d48e2181.mp4": "/reactportfolioapp/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801f181b.js",
+    "static/js/2.09549636.chunk.js",
+    "static/css/main.d6858b15.chunk.css",
+    "static/js/main.71388667.chunk.js"
+  ]
+}
